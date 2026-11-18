@@ -1,2 +1,2 @@
 # Frontend
-it is for frontend technology
+It is for frontend technology
