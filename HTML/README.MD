@@ -1,0 +1,1 @@
+This folder having information about HTML.
