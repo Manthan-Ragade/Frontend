@@ -1,3 +1,3 @@
 # Frontend
-It is for frontend technology & genernally i used this folder for frontend technology
+It is for frontend technology & genernally i used this folder for frontend technology.
 
