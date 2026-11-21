@@ -1,0 +1,38 @@
+#myName{
+    color: blueviolet;
+}
+.para{
+    color: orange;
+}
+div p{
+    text-align: center;
+    color: blue;
+}
+div li{
+    line-height: 58 px;
+    color: aqua;
+}
+input[type="text"]{
+    color: crimson;
+}
+input[placeholder]{
+    color: cyan;
+}
+input[type]{
+    color:darkorange;
+    background-color: khaki;
+}
+button:hover{
+    color: rgb(244, 11, 135);
+    background-color:lime;
+}
+label:hover{
+    color:firebrick;
+}
+button:checked{
+    background-color: aqua;
+}
+p + h2{
+    text-decoration:double underline ;
+
+}

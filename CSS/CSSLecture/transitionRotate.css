@@ -1,0 +1,16 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(108, 30, 86);
+    margin-top: 20px;
+    transition: 2s ;
+
+}
+
+div:hover{
+    /* background-color: blueviolet;
+    border-radius: 50%; */
+    border-radius: 50%;
+    background-color: rgb(56, 11, 238);
+
+}

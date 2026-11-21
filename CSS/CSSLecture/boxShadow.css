@@ -1,0 +1,27 @@
+div{
+    height: 100px;
+    width: 300px;
+    background-color: yellow;
+    box-shadow: 2px 2px 10px black;
+}
+button{
+    margin-top: 20px;
+    color: rgb(241, 236, 245);
+    background-color:rgb(68, 68, 239) ;
+    box-shadow: 1px 2px 10px black;
+    transition: 3s;
+}
+
+button:hover{
+    transform: rotate(90deg);
+
+}
+
+.box{
+    width: 400px;
+    height: 200px;
+    background-image: url(./virat1.jpg);
+    background-size: cover;
+    box-shadow: 1px 2px 8px pink;
+}
+

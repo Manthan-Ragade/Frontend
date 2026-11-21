@@ -1,0 +1,27 @@
+#mydiv{
+    height: 100px;
+    width: 300px;
+    background-color: rgb(116, 243, 116);
+    transition: 2s ease-out;
+    display: inline-block;
+}
+#mydiv:hover{
+    width: 600px;
+    height: 600px;
+    margin-left: 50px;
+    transform: rotate(30deg);
+    color: red;
+}
+#red{
+    height: 100px;
+    width: 300px;
+    background-color: red(116, 243, 116);
+    transition: 2s ease-out;
+}
+#red:hover{
+    width: 600px;
+    height: 600px;
+    margin-left: 50px;
+    transform: rotate(30deg);
+    color: red;
+}

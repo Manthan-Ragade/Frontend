@@ -1,0 +1,12 @@
+div{
+    height: 400px;
+    width: 600px;
+    margin: 10px auto;
+    background-color: pink;
+    background-image: url(Mykohli.jpg.jpg);
+    background-size: cover;
+}
+
+div h1{
+    text-align: right;
+}

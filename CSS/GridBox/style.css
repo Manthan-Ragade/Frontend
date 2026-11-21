@@ -1,0 +1,53 @@
+a{
+    text-decoration: none ;
+    color: white;
+    margin-left: 20px;
+}
+.price{
+    color: white;
+}
+
+h1{
+    border: 2px solid white;
+    text-align: center;
+    border-radius: 15px;
+    background-color:white;
+    color: black;
+    font-size: 30px;
+    box-shadow: 2px 4px 14px white;
+    margin-bottom:40px ;
+}
+
+h1:first-letter{
+    color:black;
+}
+
+.card{
+    height: 400px;
+    width: 400px;
+    border: 2px solid white;
+    box-shadow: 4px 4px 10px white;
+    border-radius:15px;
+    margin-top: 10px;
+    display: inline-block;
+    margin: 24px;
+    transition: 1s ease-in;
+}
+img{
+    width:100%;
+    border-radius: 15px;
+}
+body{
+    background-color: rgb(21, 20, 20);
+}
+.bikes{
+    color: white;
+    margin-left: 15px;
+}
+#sportBike{
+    display: flex;
+    justify-content: space-between;
+}
+.card:hover{
+    box-shadow: 4px 4px 14px lime;
+}

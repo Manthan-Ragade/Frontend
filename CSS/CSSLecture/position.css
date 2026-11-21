@@ -1,0 +1,43 @@
+div{
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    background-color: brown;
+    text-align: center;
+    border: 2px solid black;
+    display: inline-block; 
+}
+
+#static{
+    height: 100px;
+    width: 100px;
+    margin: 30px;
+    background-color: rgb(42, 165, 65);
+    position: static;
+}
+#relative{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    position: relative;
+    left: 100px;
+    top: 100px;
+}
+
+#absulate{
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+    left: 50%;
+    top: 100px;
+}
+#fixed{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(208, 255, 0);
+    position: fixed;
+    left: 50%;
+    top: 250px;
+}
+

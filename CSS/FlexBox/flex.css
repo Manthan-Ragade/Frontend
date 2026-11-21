@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    box-shadow: 2px 2px 5px;
+    border-radius: 20px;
+    width: 80%;
+    position: relative;
+    left: 120px;
+}
+#container{
+    height: 300px;
+    width: 500px;
+    background-color: beige;
+    border: 2px solid black;
+    margin: 20px auto;
+    margin-top: 40px;
+    display: flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    /* align-items:flex-end; */
+    /* align-content:space-between; */
+    flex-wrap: wrap;
+   
+}
+#container div{
+    height: 50px;
+    width: 100px;
+}
+#yellow{
+    /* align-self: flex-end; */
+    flex:2 2 10px;
+}    
